@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hey there, I'm Luthando Lincoln Jayiya  
 
-🚀 **Software Engineer | Full-Stack Developer | AI Explorer**
+🚀 **Software Engineer | Full-Stack Developer | AI Explorer | Blockchain Enthusiast**
 
 I’m a passionate Software Engineer from **Johannesburg, South Africa**, with a **BSc in Information Technology** and over **2 years of experience** building full-stack systems using **C#, JavaScript, React, and Python**.  
 I love turning complex problems into elegant, scalable software, whether it’s **a .NET backend**, **a modern React dashboard**, or **an AI-powered tool**.
