@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 👋 Hey there, I'm Luthando Lincoln Jayiya  
 
@@ -83,5 +83,93 @@ _University of the Free State (2019 – 2022)_
 
 ---
 
-⭐ *“Code isn’t just logic, it’s creativity with syntax.”*  
+⭐ *“Code isn’t just logic, it’s creativity with syntax.”*  -->
+
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm Luthando Lincoln Jayiya</h1>
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer | AI Explorer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%23%20|%20React%20|%20Java%20|%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20cool%20AI%20stuff%20🔥-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 💼 Currently a **Software Engineer Consultant** at [FDM Group](https://www.fdmgroup.com/)  
+- 🧩 Experienced in **C#**, **.NET Core**, **React**, **Java**, **Spring Boot**, **Python**, and **SQL optimization**  
+- ⚙️ Skilled in **GraphQL**, **MongoDB**, **CI/CD (GitLab + Jenkins)**, and **Agile teamwork**  
+- 🧠 Exploring **AI/ML and LLMs with Python**  
+- 🌱 Passionate about **clean code**, **system design**, and **AI-driven innovation**  
+
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,java,spring,python,flask,mongodb,mysql,git,tailwind,html,css,bootstrap,graphql,jenkins" />
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🧠 AI-Powered Knowledge Base  
+> *Python • Flask-RESTx • OpenAI Whisper • React • Tailwind CSS*  
+- Built and led an AI project that turns **speech into searchable text**  
+- Integrated **local LLMs** using `llama-cpp-python`  
+- Designed a **modern React frontend** with real-time transcription  
+
+#### ⚙️ Internal Operations Portal  
+> *React • TypeScript • GraphQL • MongoDB*  
+- Rebuilt legacy workflows into a **modern data dashboard**  
+- Implemented **real-time visualization** for 20+ daily users  
+- Served as **Back-End Lead Developer**
+
+---
+
+### 🧭 Experience Snapshot
+
+| Role | Company | Period |
+|------|----------|--------|
+| **Software Engineer Consultant** | FDM Group | Mar 2024 – Present |
+| **Software Engineer Intern** | SITA SOC | May 2023 – Mar 2024 |
+| **Student Assistant (IT)** | University of the Free State | Mar 2022 – Oct 2022 |
+
+---
+
+### 🎓 Education
+🎓 **BSc in Information Technology**  
+_University of the Free State (2019 – 2022)_
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuthandoJayiya&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoJayiya&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luthando-lincoln-jayiya-261aa3166/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:lincolnluthando@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>“Code isn’t just logic — it’s creativity with syntax.”</i> ⭐
+</p>
 
