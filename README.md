@@ -99,18 +99,19 @@ _University of the Free State (2019 – 2022)_
 
 ### 🧠 About Me
 
-- 💼 Currently a **Software Engineer Consultant** at [FDM Group](https://www.fdmgroup.com/)  
-- 🧩 Experienced in **C#**, **.NET Core**, **React**, **Java**, **Spring Boot**, **Python**, and **SQL optimization**  
-- ⚙️ Skilled in **GraphQL**, **MongoDB**, **CI/CD (GitLab + Jenkins)**, and **Agile teamwork**  
-- 🧠 Exploring **AI/ML and LLMs with Python**  
-- 🌱 Passionate about **clean code**, **system design**, and **AI-driven innovation**  
+- 🎯 Currently looking for a team to work with
+- 🧠 Building **AI-powered systems** using **OpenAI Whisper**, **Flask**, and **React**
+- 🧩 Skilled in **C#**, **.NET Core**, **Java**, **React**, **Typescript**, **Node JS** and **SQL and NoSQL Databases**
+- ⚙️ Experienced with **API Design**, **Microservices**, and **Agile teamwork**
+- 🌱 Exploring **Python for LLMs and AI applications**, **Big Fan of FinTech**, **Exploring blockchain technology and blockchain technology applications beyond cryptocurrency**
+- 🌍 Open to **hybrid/remote** work environments focused on innovation  
 
 ---
 
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,java,spring,python,flask,mongodb,mysql,git,tailwind,html,css,bootstrap,graphql,jenkins" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,java,spring,python,flask,mongodb,mysql,git,tailwind,html,css,shadcn,bootstrap,graphql,jenkins,fastapi,angular,nodejs,tailwindcss,gitlab" />
 </p>
 
 ---
@@ -118,16 +119,15 @@ _University of the Free State (2019 – 2022)_
 ### 🏗️ Featured Projects
 
 #### 🧠 AI-Powered Knowledge Base  
-> *Python • Flask-RESTx • OpenAI Whisper • React • Tailwind CSS*  
-- Built and led an AI project that turns **speech into searchable text**  
-- Integrated **local LLMs** using `llama-cpp-python`  
-- Designed a **modern React frontend** with real-time transcription  
+> *Python • Flask-RESTx • OpenAI Whisper • React • Tailwind*  
+- Built and led an AI project that works with HR in job search.  
+- Integrated **local LLM processing** via **llama-cpp-python**.  
+- Designed a sleek **React frontend** with real-time transcription and data visualization.  
 
-#### ⚙️ Internal Operations Portal  
+### ⚙️ Internal Operations Portal  
 > *React • TypeScript • GraphQL • MongoDB*  
-- Rebuilt legacy workflows into a **modern data dashboard**  
-- Implemented **real-time visualization** for 20+ daily users  
-- Served as **Back-End Lead Developer**
+- Transformed legacy workflows into a modern interactive dashboard.    
+- Acted as **Back-end Lead Developer**, architecting and deploying new APIs.
 
 ---
 
@@ -135,14 +135,14 @@ _University of the Free State (2019 – 2022)_
 
 | Role | Company | Period |
 |------|----------|--------|
-| **Software Engineer Consultant** | FDM Group | Mar 2024 – Present |
+| **Software Engineer Consultant** | FDM Group | Mar 2024 – July 2025 |
 | **Software Engineer Intern** | SITA SOC | May 2023 – Mar 2024 |
 | **Student Assistant (IT)** | University of the Free State | Mar 2022 – Oct 2022 |
 
 ---
 
 ### 🎓 Education
-🎓 **BSc in Information Technology**  
+🎓 **BSc in Information Technology majoring in Computer Sciences and Business Management**  
 _University of the Free State (2019 – 2022)_
 
 ---
@@ -170,6 +170,6 @@ _University of the Free State (2019 – 2022)_
 ---
 
 <p align="center">
-  ⭐ <i>“Code isn’t just logic — it’s creativity with syntax.”</i> ⭐
+  ⭐ <i>“Code isn’t just logic, it’s creativity with syntax.”</i> ⭐
 </p>
 
