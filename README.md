@@ -118,7 +118,7 @@ _University of the Free State (2019 – 2022)_
 
 ### 🏗️ Featured Projects
 
-#### 🧠 AI-Powered Knowledge Base  
+#### 🧠 AI-Powered System
 > *Python • Flask-RESTx • OpenAI Whisper • React • Tailwind*  
 - Built and led an AI project that works with HR in job search.  
 - Integrated **local LLM processing** via **llama-cpp-python**.  
