@@ -111,7 +111,7 @@ _University of the Free State (2019 – 2022)_
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,java,spring,python,flask,mongodb,mysql,git,tailwind,html,css,shadcn,bootstrap,graphql,jenkins,fastapi,angular,nodejs,tailwindcss,gitlab,flink,kafka,graffana,prometheus,doker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript,java,spring,python,flask,mongodb,mysql,git,tailwind,html,css,shadcn,bootstrap,graphql,jenkins,fastapi,angular,nodejs,tailwindcss,gitlab,flink,kafka,grafana,prometheus,docker,kubernetes" />
 </p>
 
 ---
